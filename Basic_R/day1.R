@@ -1,4 +1,4 @@
-x<-10L
+x<-10Lg
 typeof(x)
 y<-"Rudransh"
 z<-10.5
